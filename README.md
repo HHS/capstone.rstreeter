@@ -1,3 +1,3 @@
 # capstone.rstreeter
 Data Science CoLab Capstone project
-This is my update.  Have a good afternoon.
+Updates reflect preliminary analyses as of July 29, 2018.
